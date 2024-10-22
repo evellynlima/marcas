@@ -1,3 +1,3 @@
-# marcas
+# alongamentos
 
 https://evellynlima.github.io/marcas/
